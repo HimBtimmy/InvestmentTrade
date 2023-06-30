@@ -1,1 +1,1 @@
-# InvestmentTrade
+# Investment Research
